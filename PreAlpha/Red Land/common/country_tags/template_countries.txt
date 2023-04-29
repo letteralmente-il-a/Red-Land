@@ -1,0 +1,2 @@
+ATL = "countries/Atlas.txt"
+PIS = "countries/Pistia.txt"

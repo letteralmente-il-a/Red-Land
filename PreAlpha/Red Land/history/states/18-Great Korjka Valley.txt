@@ -1,0 +1,15 @@
+state={
+	id=18
+	name="STATE_18"
+	provinces={
+		1819 1975 2391 3375 3726 6630 6668 6681 6725 6734 6784 6868 6898 6913 6957 
+	}
+
+	history={
+		owner = ATL
+		add_core_of = ATL
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

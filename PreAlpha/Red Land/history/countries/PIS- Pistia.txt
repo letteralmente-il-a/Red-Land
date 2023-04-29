@@ -1,0 +1,19 @@
+#Pistia
+
+capital = 1
+
+set_research_slots = 3
+
+set_politics = {
+	ruling_party = fascism
+	last_election = "1926.2.4"
+	election_frequency = 100
+	elections_allowed = no
+}
+
+set_popularities = {
+	democratic = 3
+	fascism = 60
+	communism = 7
+	neutrality = 30
+}

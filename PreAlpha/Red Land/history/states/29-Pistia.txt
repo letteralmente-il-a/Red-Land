@@ -1,0 +1,14 @@
+state={
+	id=29
+	name="STATE_29"
+	provinces={
+		41 655 1260 1752 3302 7506 7507 7529 7567 7568 7571 8088 
+	}
+	history={
+		owner = PIS
+		add_core_of = PIS
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

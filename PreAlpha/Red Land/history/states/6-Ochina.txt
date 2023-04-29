@@ -1,0 +1,15 @@
+state={
+	id=6
+	name="STATE_412"
+	provinces={
+		38 99 147 572 876 1174 1257 1309 1365 1410 1681 2010 2283 3118 3246 3803 3883 4002 4042 6805 6845 6853 6867 6938 6945 6988 6989 7048 7070 7075 7076 7089 7139 
+	}
+
+	history={
+		owner = ATL
+		add_core_of = ATL
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

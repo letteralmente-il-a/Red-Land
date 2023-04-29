@@ -1,0 +1,17 @@
+state={
+	id=27
+	name="STATE_27"
+	provinces={
+		7481 
+	}
+
+	state_category = city
+
+	history={
+		owner = ATL
+		add_core_of = ATL
+	}
+	manpower=1556
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

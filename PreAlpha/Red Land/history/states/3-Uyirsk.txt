@@ -1,0 +1,16 @@
+
+state={
+	id=3
+	name="STATE_409"
+	provinces={
+		72 74 809 1349 1719 1947 2151 2337 2696 2962 3486 3766 4074 4135 7368 7430 7442 7468 7489 7527 7551 7570 8081 8082 8085 
+	}
+
+	history={
+		owner = ATL
+		add_core_of = ATL
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

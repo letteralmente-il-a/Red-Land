@@ -1,0 +1,15 @@
+state={
+	id=26
+	name="STATE_26"
+	provinces={
+		456 492 1342 1358 1861 2986 3349 3797 6887 6921 6956 7000 7029 7063 
+	}
+
+	history={
+		owner = ATL
+		add_core_of = ATL
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

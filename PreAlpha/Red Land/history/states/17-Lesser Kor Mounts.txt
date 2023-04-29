@@ -1,0 +1,16 @@
+
+state={
+	id=17
+	name="STATE_17"
+	provinces={
+		1021 1069 1373 1545 2947 6861 6876 6939 
+	}
+
+	history={
+		owner = ATL
+		add_core_of = ATL
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

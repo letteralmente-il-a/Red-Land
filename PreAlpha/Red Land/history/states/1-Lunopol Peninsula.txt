@@ -1,0 +1,21 @@
+
+state={
+	id=1
+	name="STATE_406"
+	provinces={
+		759 1026 1168 1733 2182 2412 2754 2775 3323 7492 7522 7528 7559 7561 7598 7606 7619 7633 8096 
+	}
+
+	history={
+		owner = ATL
+		add_core_of = ATL
+
+	# VICTORY_POINTS_3323:0 "Lunopol"
+	victory_points = { 
+		3323 40 
+		}
+	}
+	manpower=142065
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

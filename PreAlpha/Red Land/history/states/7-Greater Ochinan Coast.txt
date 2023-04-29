@@ -1,0 +1,15 @@
+state={
+	id=7
+	name="STATE_413"
+	provinces={
+		832 900 1385 1810 2239 2900 2999 3140 3406 3482 3885 4174 4184 6968 6996 7030 7038 7071 7153 7162 7210 7278 7312 7313 
+	}
+
+	history={
+		owner = ATL
+		add_core_of = ATL
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
